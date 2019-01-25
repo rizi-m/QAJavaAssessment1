@@ -1,0 +1,4 @@
+0,player
+1000,treasure
+1001,healthpotion
+2001,swampmonster
